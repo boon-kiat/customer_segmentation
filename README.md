@@ -43,6 +43,13 @@ _Service-related segmentation_
 - Provide information of 100,000 orders made across multiple marketplaces in Brazil from 2016 to 2018.
 - Encompass various dimensions such as order status, pricing details, payment and freight performance, customer location, product attributes and customer reviews.
 
+### Tools:
+- Apache Hadoop
+- MySQL
+- HBase
+- Hive
+- Pig
+
 ### Methodology:
 _Data Pre-processing:_  
 - Join six raw datasets into one using common columns that serve as primary keys.  
